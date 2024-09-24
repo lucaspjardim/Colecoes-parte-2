@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30abf00-a694-41c5-82e9-d5fad922d6f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TarefaColecoes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tarefa1.java" afterDir="false" />
+    <list default="true" id="d30abf00-a694-41c5-82e9-d5fad922d6f8" name="Changes" comment="Primeira Tarefa1">
+      <change afterPath="$PROJECT_DIR$/src/Tarefa2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +35,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Tarefa1.executor": "Run",
+    "Application.Tarefa2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/lucas.jardim.FARROUPILHA/Documents/TarefaColecoes/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Tarefa2">
     <configuration name="Tarefa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tarefa1" />
       <module name="TarefaColecoes" />
@@ -54,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tarefa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tarefa2" />
+      <module name="TarefaColecoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tarefa2" />
         <item itemvalue="Application.Tarefa1" />
       </list>
     </recent_temporary>
@@ -69,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727184771213</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeira Tarefa1">
+      <option name="closed" value="true" />
+      <created>1727188730417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727188730417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeira Tarefa1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeira Tarefa1" />
   </component>
 </project>
