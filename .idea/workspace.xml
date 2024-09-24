@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30abf00-a694-41c5-82e9-d5fad922d6f8" name="Changes" comment="Primeira Tarefa1">
-      <change afterPath="$PROJECT_DIR$/src/Tarefa2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d30abf00-a694-41c5-82e9-d5fad922d6f8" name="Changes" comment="Finalização da 2 Tarefa2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lucaspjardim/Colecoes-parte-2.git",
+    "accountId": "6e7721e6-9324-4595-8eaf-f529fc3735e5"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -81,11 +84,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727188730417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finalização da 2 Tarefa2">
+      <option name="closed" value="true" />
+      <created>1727191230382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727191230382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeira Tarefa1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira Tarefa1" />
+    <MESSAGE value="Finalização da 2 Tarefa2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalização da 2 Tarefa2" />
   </component>
 </project>
