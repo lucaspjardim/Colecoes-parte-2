@@ -12,7 +12,7 @@ public class Tarefa1 {
         String text = s.nextLine();
 
         String[] namesArray = text.split(",");
-        ArrayList<String> namesList = new ArrayList<String>();
+        ArrayList<String> namesList = new ArrayList<>();
 
         for (String name : namesArray) {
             namesList.add(name.trim());
