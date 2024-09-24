@@ -13,8 +13,8 @@ public class Tarefa2 {
 
         String[] namesArray = names.split(",");
 
-        ArrayList<String> masculineList = new ArrayList<String>();
-        ArrayList<String> femaleList = new ArrayList<String>();
+        ArrayList<String> masculineList = new ArrayList<>();
+        ArrayList<String> femaleList = new ArrayList<>();
 
         for (String namesGender : namesArray) {
             String[] dash = namesGender.split("-");
